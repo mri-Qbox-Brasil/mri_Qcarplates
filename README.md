@@ -1,4 +1,6 @@
 # base
-Repositório Template para colocar a pasta resources no git.
+Criado por Gordela :)
 
-Este repositório possui um arquivo `.gitignore` com os tipos de arquivos e diretórios que normalmente não são adicionados ao controle de versão.
+É nescessario adicionar o seguinte comando em sever.cfg
+
+exec @mri_Qcarplates/plates.cfg
